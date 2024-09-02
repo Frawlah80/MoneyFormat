@@ -1,0 +1,9 @@
+name: MoneyFormat
+version: '${project.version}'
+main: me.frawlah.moneyformat.MoneyFormat
+softdepend: [PlaceholderAPI]
+commands:
+  balance:
+    description: Shows the player's balance.
+    usage: /<command>
+    aliases: [bal]

@@ -1,0 +1,6 @@
+language:
+  translate_thousand: 'thousand'
+  translate_million: 'million'
+  translate_billion: 'billion'
+
+format: '&aBalance&e: &6{BALANCE}'
